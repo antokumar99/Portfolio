@@ -104,7 +104,7 @@ export function About() {
           </div>
 
           <div className="flex gap-3">
-            <a href="/resume.pdf" className="btn-primary" download="Anto_Kumar_Paul_Resume.pdf">
+            <a href="/resume_anto.pdf" className="btn-primary" download="Anto_Kumar_Paul_Resume.pdf">
               Download CV
             </a>
             <a href="#contact" className="btn-ghost">
